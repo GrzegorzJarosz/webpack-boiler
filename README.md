@@ -1,16 +1,17 @@
-# Node RESTapi with User authentication / template
+# Boilerplate / template for start with Webpack
 
 ## Content
-boilerplate to start work with html js and scss.
-It installs packages, creates folders, and creates basic structure of new project
+boilerplate to start work with html, js and scss.
+This tool will install packages, create folders, and create basic structure of new project.
 
-## technologies
+
+## Technologies
 
 * NodeJS & npm
 * scss
 * webpack
 
-## prerequisites
+## Prerequisites
 
 * Node.js: min. v10.12
 
